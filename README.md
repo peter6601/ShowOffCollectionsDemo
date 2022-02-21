@@ -1,2 +1,2 @@
 # ShowOffCollectionsDemo
-using OpenSea API to show NFF collections
+using OpenSea API to show NFT collections
